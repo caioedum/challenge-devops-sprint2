@@ -28,7 +28,7 @@ cd challenge-devops-sprint2
 # Execute com o comando no terminal
 docker-compose up --build
 
-```bash
+```
 
 ### Explicação da Seção de Integrantes
 
