@@ -21,13 +21,14 @@ Passo a passo para instalar o projeto localmente.
 ```bash
 # Clone o repositório
 git clone https://github.com/caioedum/challenge-devops-sprint2.git
-
+```
+```bash
 # Acesse o diretório do projeto
 cd challenge-devops-sprint2
-
+```
+```bash
 # Execute com o comando no terminal
 docker-compose up --build
-
 ```
 
 ### Explicação da Seção de Integrantes
