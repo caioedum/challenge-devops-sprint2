@@ -33,3 +33,9 @@ docker-compose up --build
 - **Nome e RM**: Caio Martins - RM554025
 - **Nome e RM**: Julia Mariano - RM552713
 - **Nome e RM**: Leonardo Gaspar - RM553383
+
+### Explicação da Seção de Integrantes
+
+- **Nome**: Nome do integrante.
+- **Função**: O papel específico do integrante no projeto (ex.: Desenvolvedor, QA, Designer).
+- **GitHub e LinkedIn**: Links para os perfis do GitHub e LinkedIn de cada integrante.
