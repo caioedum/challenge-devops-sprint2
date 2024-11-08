@@ -10,6 +10,10 @@
 
 Clique na imagem acima para assistir à demonstração do projeto no YouTube!
 
+## 🖇️ Diagrama
+
+![Diagrama técnico](./img/challenge-devops-diagrama-tecnico.jpg)
+
 ## 📝 Sobre o Projeto
 
 O projeto visa atender os critérios da máteria de DevOps, com uso de uma aplicação que implementa as ferramentas do Docker e VMs do Azure.
