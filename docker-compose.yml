@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fastapi_app
+    environment:
+      - DATABASE_URL=oracle+oracledb://rm554025:010204@oracle.fiap.com.br:1521/ORCL
+    ports:
+      - "8000:8000"
